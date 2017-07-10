@@ -1,0 +1,3 @@
+C:/Users/hurtado/Documents/myprojects/volumeSegmentation/build/CMakeFiles/TranslationTransform.dir
+C:/Users/hurtado/Documents/myprojects/volumeSegmentation/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hurtado/Documents/myprojects/volumeSegmentation/build/CMakeFiles/ZERO_CHECK.dir

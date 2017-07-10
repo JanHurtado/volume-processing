@@ -1,0 +1,12 @@
+NRRD0004
+# Complete NRRD file format specification at:
+# http://teem.sourceforge.net/nrrd/format.html
+type: unsigned char
+dimension: 3
+space: left-posterior-superior
+sizes: 259 259 183
+space directions: (0.21979304281459913,0,0) (0,0.21979304281459913,0) (0,0,0.21979304281459913)
+kinds: domain domain domain
+encoding: gzip
+space origin: (0,0,0)
+data file: Baby.raw.gz

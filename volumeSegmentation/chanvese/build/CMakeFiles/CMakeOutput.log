@@ -1,0 +1,565 @@
+The system is: Windows - 6.3.9600 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 13/06/2017 17:42:56.
+Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\3.8.0\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\3.8.0\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Done Building Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\3.8.0\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.35
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/3.8.0/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 13/06/2017 17:42:58.
+Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\3.8.0\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\3.8.0\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\3.8.0\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.38
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/3.8.0/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_938fc.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 13/06/2017 17:42:59.
+Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_938fc.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_938fc.dir\Debug\".
+  Creating directory "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_938fc.dir\Debug\cmTC_938fc.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_938fc.dir\Debug\cmTC_938fc.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_938fc.dir\Debug\\" /Fd"cmTC_938fc.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\testCCompiler.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_938fc.dir\Debug\\" /Fd"cmTC_938fc.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_938fc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_938fc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_938fc.lib" /MACHINE:X64   /machine:x64 cmTC_938fc.dir\Debug\testCCompiler.obj
+  cmTC_938fc.vcxproj -> C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_938fc.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_938fc.dir\Debug\cmTC_938fc.tlog\unsuccessfulbuild".
+  Touching "cmTC_938fc.dir\Debug\cmTC_938fc.tlog\cmTC_938fc.lastbuildstate".
+Done Building Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_938fc.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.81
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_636df.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 13/06/2017 17:43:01.
+Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_636df.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_636df.dir\Debug\".
+  Creating directory "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_636df.dir\Debug\cmTC_636df.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_636df.dir\Debug\cmTC_636df.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_636df.dir\Debug\\" /Fd"cmTC_636df.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.8\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_636df.dir\Debug\\" /Fd"cmTC_636df.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.8\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_636df.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_636df.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_636df.lib" /MACHINE:X64   /machine:x64 cmTC_636df.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_636df.vcxproj -> C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_636df.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_636df.dir\Debug\cmTC_636df.tlog\unsuccessfulbuild".
+  Touching "cmTC_636df.dir\Debug\cmTC_636df.tlog\cmTC_636df.lastbuildstate".
+Done Building Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_636df.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.49
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_47c9d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 13/06/2017 17:43:03.
+Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_47c9d.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_47c9d.dir\Debug\".
+  Creating directory "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_47c9d.dir\Debug\cmTC_47c9d.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_47c9d.dir\Debug\cmTC_47c9d.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_47c9d.dir\Debug\\" /Fd"cmTC_47c9d.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_47c9d.dir\Debug\\" /Fd"cmTC_47c9d.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_47c9d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_47c9d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_47c9d.lib" /MACHINE:X64   /machine:x64 cmTC_47c9d.dir\Debug\testCXXCompiler.obj
+  cmTC_47c9d.vcxproj -> C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_47c9d.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_47c9d.dir\Debug\cmTC_47c9d.tlog\unsuccessfulbuild".
+  Touching "cmTC_47c9d.dir\Debug\cmTC_47c9d.tlog\cmTC_47c9d.lastbuildstate".
+Done Building Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_47c9d.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.44
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_2cfff.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 13/06/2017 17:43:05.
+Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_2cfff.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_2cfff.dir\Debug\".
+  Creating directory "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_2cfff.dir\Debug\cmTC_2cfff.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_2cfff.dir\Debug\cmTC_2cfff.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_2cfff.dir\Debug\\" /Fd"cmTC_2cfff.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.8\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_2cfff.dir\Debug\\" /Fd"cmTC_2cfff.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.8\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_2cfff.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_2cfff.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_2cfff.lib" /MACHINE:X64   /machine:x64 cmTC_2cfff.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_2cfff.vcxproj -> C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_2cfff.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_2cfff.dir\Debug\cmTC_2cfff.tlog\unsuccessfulbuild".
+  Touching "cmTC_2cfff.dir\Debug\cmTC_2cfff.tlog\cmTC_2cfff.lastbuildstate".
+Done Building Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_2cfff.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.43
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_462d1.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 13/06/2017 17:43:07.
+Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_462d1.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_462d1.dir\Debug\".
+  Creating directory "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_462d1.dir\Debug\cmTC_462d1.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_462d1.dir\Debug\cmTC_462d1.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_462d1.dir\Debug\\" /Fd"cmTC_462d1.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\feature_tests.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_462d1.dir\Debug\\" /Fd"cmTC_462d1.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\feature_tests.cxx
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_462d1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_462d1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_462d1.lib" /MACHINE:X64   /machine:x64 cmTC_462d1.dir\Debug\feature_tests.obj
+  cmTC_462d1.vcxproj -> C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_462d1.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_462d1.dir\Debug\cmTC_462d1.tlog\unsuccessfulbuild".
+  Touching "cmTC_462d1.dir\Debug\cmTC_462d1.tlog\cmTC_462d1.lastbuildstate".
+Done Building Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_462d1.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.41
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: /DWIN32;/D_WINDOWS;/W3;/GR;/EHsc
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 23/06/2017 12:51:01.
+Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\3.8.0\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\3.8.0\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\3.8.0\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.73
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/3.8.0/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_9908f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 23/06/2017 12:51:03.
+Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_9908f.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_9908f.dir\Debug\".
+  Creating directory "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_9908f.dir\Debug\cmTC_9908f.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_9908f.dir\Debug\cmTC_9908f.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_9908f.dir\Debug\\" /Fd"cmTC_9908f.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_9908f.dir\Debug\\" /Fd"cmTC_9908f.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_9908f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_9908f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_9908f.lib" /MACHINE:X64   /machine:x64 cmTC_9908f.dir\Debug\testCXXCompiler.obj
+  cmTC_9908f.vcxproj -> C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_9908f.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_9908f.dir\Debug\cmTC_9908f.tlog\unsuccessfulbuild".
+  Touching "cmTC_9908f.dir\Debug\cmTC_9908f.tlog\cmTC_9908f.lastbuildstate".
+Done Building Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_9908f.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.02
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_8080b.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 23/06/2017 12:51:06.
+Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_8080b.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_8080b.dir\Debug\".
+  Creating directory "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_8080b.dir\Debug\cmTC_8080b.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_8080b.dir\Debug\cmTC_8080b.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_8080b.dir\Debug\\" /Fd"cmTC_8080b.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.8\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_8080b.dir\Debug\\" /Fd"cmTC_8080b.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.8\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_8080b.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_8080b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_8080b.lib" /MACHINE:X64   /machine:x64 cmTC_8080b.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_8080b.vcxproj -> C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_8080b.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_8080b.dir\Debug\cmTC_8080b.tlog\unsuccessfulbuild".
+  Touching "cmTC_8080b.dir\Debug\cmTC_8080b.tlog\cmTC_8080b.lastbuildstate".
+Done Building Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_8080b.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.44
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_46434.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 23/06/2017 12:51:07.
+Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_46434.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_46434.dir\Debug\".
+  Creating directory "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_46434.dir\Debug\cmTC_46434.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_46434.dir\Debug\cmTC_46434.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_46434.dir\Debug\\" /Fd"cmTC_46434.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\feature_tests.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_46434.dir\Debug\\" /Fd"cmTC_46434.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\feature_tests.cxx
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_46434.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_46434.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/CMakeTmp/Debug/cmTC_46434.lib" /MACHINE:X64   /machine:x64 cmTC_46434.dir\Debug\feature_tests.obj
+  cmTC_46434.vcxproj -> C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\Debug\cmTC_46434.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_46434.dir\Debug\cmTC_46434.tlog\unsuccessfulbuild".
+  Touching "cmTC_46434.dir\Debug\cmTC_46434.tlog\cmTC_46434.lastbuildstate".
+Done Building Project "C:\Users\hurtado\Documents\myprojects\volumeSegmentation\chanvese\build\CMakeFiles\CMakeTmp\cmTC_46434.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.58
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates

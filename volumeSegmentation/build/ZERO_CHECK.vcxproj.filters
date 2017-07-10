@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hurtado\Documents\myprojects\volumeSegmentation\build\CMakeFiles\ccb498abd1615a8ce0a2ac0a38e437f3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5B3C394C-064C-3F54-8A07-97C1F41EC9B2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

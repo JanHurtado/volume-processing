@@ -1,0 +1,3 @@
+C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/SinglephaseChanAndVeseSparseFieldLevelSetSegmentation.dir
+C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hurtado/Documents/myprojects/volumeSegmentation/chanvese/build/CMakeFiles/ZERO_CHECK.dir
